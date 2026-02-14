@@ -33,3 +33,6 @@ python analysis.py
 ## Purpose
 Demonstrates data cleaning, feature engineering, time-series analysis, and visualization skills.
 
+## Sample Output
+![Output](output.png)
+
